@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application.Test</Name>
+    <Assembly>C:\Users\JGlasbe\Documents\addin\bin\Debug\TestApp.dll</Assembly>
+    <FullClassName>AddinTest.App</FullClassName>
+    <AddInId>59cd1eb5-39eb-4554-92e0-58d994807689</AddInId>	
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
